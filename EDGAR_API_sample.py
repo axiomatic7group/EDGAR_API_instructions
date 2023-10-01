@@ -16,7 +16,7 @@ cik = get_cik('AAPL', tickers)
 
 url = "http://data.sec.gov/api/xbrl/companyfacts/"
 headers = {
-    "User-Agent": "Daniel M axiomaticgroup@proton.me",
+    "User-Agent": "A X ax7@pt.me",
     "Accept-Encoding": "gzip, deflate, br",
     "Host": "data.sec.gov"}
 url = url+str(cik[0])
