@@ -2,3 +2,5 @@
 Simple instructions on how to get set up using the SEC's EDGAR API in Python
 
 Follow the instructions in the notebook file
+
+YT:https://www.youtube.com/watch?v=HpvwP0IcFaQ
